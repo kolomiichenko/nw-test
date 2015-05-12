@@ -1,0 +1,9 @@
+body {
+  background: #46483E url("../img/logo.png") center 90px no-repeat;
+  color: #ffffff;
+  padding: 200px 10px 10px;
+  text-align: center;
+}
+b {
+  color: #8BC84B;
+}

@@ -1,0 +1,17 @@
+{
+  "name": "nw-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.html",
+  "start": "nw ./",
+  "author": "Andrii Kolomiichenko <bboywilld@gmail.com> (http://github.com/kolomiichenko)",
+  "license": "ISC",
+  "window": {
+    "toolbar": false,
+    "width": 640,
+    "height": 480
+  },
+  "dependencies": {
+    "async": "^0.9.0"
+  }
+}
