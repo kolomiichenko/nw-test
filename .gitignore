@@ -1,5 +1,8 @@
 # Node modules
-node_modules*
+node_modules/
+
+# Builds of node-webkit-builder
+build/
 
 # IDEs
 nbproject/

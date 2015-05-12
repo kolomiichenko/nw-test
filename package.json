@@ -3,7 +3,13 @@
   "version": "0.0.1",
   "description": "",
   "main": "index.html",
-  "start": "nw ./",
+  "scripts": {
+    "start": "nw ./"
+  },
+  "repository": {
+  "type": "git",
+  "url": "git://github.com/kolomiichenko/nw-test.git"
+},
   "author": "Andrii Kolomiichenko <bboywilld@gmail.com> (http://github.com/kolomiichenko)",
   "license": "ISC",
   "window": {
@@ -13,5 +19,8 @@
   },
   "dependencies": {
     "async": "^0.9.0"
+  },
+  "devDependencies": {
+    "node-webkit-builder": "^1.0.11"
   }
 }
